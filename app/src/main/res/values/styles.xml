@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+<style name="image">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">285dp</item>
+</style>
+
+<style name="texta">
+    <item name="android:layout_width">388dp</item>
+    <item name="android:layout_height">62dp</item>
+    <item name="android:text">Styles and Material Design</item>
+    <item name="android:textSize">30sp</item>
+</style>
+
+<style name="textb">
+    <item name="android:layout_width">235dp</item>
+    <item name="android:layout_height">59dp</item>
+    <item name="android:text">Manila For A Day</item>
+    <item name="android:textSize">30sp</item>
+</style>
+
+<style name="textc">
+    <item name="android:layout_width">391dp</item>
+    <item name="android:layout_height">52dp</item>
+    <item name="android:text">Intramuros Manila Gen. Luna Street, Manila, Luzon 1002 Philippines</item>
+    <item name="android:textSize">19sp</item>
+</style>
+
+<style name="textd">
+    <item name="android:layout_width">376dp</item>
+    <item name="android:layout_height">28dp</item>
+    <item name="android:text">3.8 km from University of Santo Tomas</item>
+    <item name="android:textSize">19sp</item>
+</style>
+
+<style name="butt">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:text">Back</item>
+</style>
+
+    <style name="on">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Next</item>
+    </style>
+</resources>
